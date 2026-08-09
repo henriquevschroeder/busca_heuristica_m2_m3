@@ -3,6 +3,12 @@
  *
  * Universidade do Vale do Itajaí - Complexidade de Algoritmos
  * Atividade de Busca Heurística
+ * 
+ * **Alunos:**
+ * - Henrique Schroeder
+ * - Nilson Andrade
+ * - Matheus Barbiéri
+ * - Vinícius Grisa
  *
  * BUSCA LOCAL MONÓTONA RANDOMIZADA
  * ---------------------------------------------------------------------------
